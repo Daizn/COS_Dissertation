@@ -1,2 +1,3 @@
 /build/
-/.venv/*.synctex.gz
+/.venv/
+*.synctex.gz
